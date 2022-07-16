@@ -274,6 +274,11 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
+"@types/audio-context@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@types/audio-context/-/audio-context-1.0.1.tgz#3c757584fed1284a4e1bd28647431e71971b4cc5"
+  integrity sha512-JeL/+2/CQWCu5AYMvqlOPHVQeXdA/Nfhk+MOTpvffmSHNe+A5fZxIdgB0IYVta4Xr7B1oif8gpkk34/j9PagzQ==
+
 "@types/prop-types@*":
   version "15.7.5"
   resolved "https://registry.yarnpkg.com/@types/prop-types/-/prop-types-15.7.5.tgz#5f19d2b85a98e9558036f6a3cacc8819420f05cf"
